@@ -1,1 +1,3 @@
-# mensal-ted-1bi
+Murilo Giovani
+Pedro Meira
+Pedro Hayashida
